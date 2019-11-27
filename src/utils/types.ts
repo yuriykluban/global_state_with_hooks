@@ -1,0 +1,4 @@
+export enum StateTypes {
+    CHANGE_USER_INFO = 'CHANGE_USER_INFO',
+    CHANGE_USER_AGE = 'CHANGE_USER_AGE'
+} 
